@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.img
+*.iso
+*.db
+*.sqlite3
+
